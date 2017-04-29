@@ -1,0 +1,25 @@
+{
+  "name": "test",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "tina1998612 <tina26919742@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/tina1998612/MEAN_testing",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "toastr": "^2.1.3",
+    "angular": "^1.6.4",
+    "angular-resource": "^1.6.4",
+    "angular-route": "^1.6.4"
+  }
+}
